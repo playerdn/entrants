@@ -1,4 +1,4 @@
 Entrants registration app
 ============================
 
-Powered by Yii2 framework
+Powered by Yii2 frameworkTesting
